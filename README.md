@@ -69,10 +69,10 @@ A multiple linear regression model was built using the selected predictors.
 ---
 
 ## 📁 Repository Contents
-- `StudentPerformanceFactors.csv` — Dataset  
-- `analysis_code.ipynb` — Full Python code  
-- `Final_Report.pdf` — Project report  
-- `README.md` — Project documentation (this file)
+
+─ StudentPerformance-final.ipynb - Final analysis and model
+─ Relationship of variables.ipynb - Full correlation and visual exploration
+─ StudentPerformanceFactors.csv - Datase
 
 ---
 
