@@ -1,4 +1,3 @@
-# Student-Performance-Analysis
 # Student Performance Analysis Using Linear Regression
 
 ## 📌 Project Overview
