@@ -73,6 +73,7 @@ A multiple linear regression model was built using the selected predictors.
 ─ StudentPerformance-final.ipynb - Final analysis and model
 ─ Relationship of variables.ipynb - Full correlation and visual exploration
 ─ StudentPerformanceFactors.csv - Datase
+─ README.md # Documentation
 
 ---
 
